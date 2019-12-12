@@ -11,3 +11,4 @@ while not msg == 'quit':
     print("Server sent: ", data.decode())
     msg = input("Message to send: ")
 s.close()
+
